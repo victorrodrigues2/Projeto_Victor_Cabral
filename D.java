@@ -32,7 +32,7 @@ public class D {
 	}
 	
 	public String MD4(){
-		return ("MD4");
+		return ("MD3");
 	}
 	
 }
