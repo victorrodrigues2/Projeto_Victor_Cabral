@@ -31,4 +31,8 @@ public class D {
 		return ("MD2");
 	}
 	
+	public String MD4(){
+		return ("MD4");
+	}
+	
 }
